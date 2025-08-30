@@ -1,0 +1,6 @@
+streamlit==1.36.0
+pandas==2.2.2
+sqlalchemy==2.0.32
+python-dotenv==1.0.1
+pydantic==2.8.2
+requests==2.32.3
